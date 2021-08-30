@@ -1,1 +1,1 @@
-# mywebsite.github.io
+# mywebsite.com
